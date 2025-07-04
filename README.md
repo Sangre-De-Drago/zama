@@ -1,0 +1,2 @@
+# zama
+zamatestnet
